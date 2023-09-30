@@ -1,0 +1,211 @@
+[
+    {
+        "product_id": "P12345",
+        "product_name": "Smartphone XYZ Pro",
+        "category": "Electronics",
+        "price": 499.99,
+        "currency": "USD",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "rating": 4.5,
+        "in_stock": true,
+        "date": "2023-09-29"
+    },
+    {
+        "product_id": "P67890",
+        "product_name": "Men's Classic Black Suit",
+        "category": "Clothing",
+        "price": 199.99,
+        "currency": "USD",
+        "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "rating": 4.2,
+        "in_stock": false,
+        "date": "2023-09-29"
+    },
+    {
+        "product_id": "P54321",
+        "product_name": "Bestseller Mystery Novel",
+        "category": "Books",
+        "price": 14.95,
+        "currency": "USD",
+        "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "rating": 4.8,
+        "in_stock": true,
+        "date": "2023-09-29"
+    },
+    {
+        "product_id": "P98765",
+        "product_name": "Wireless Noise-Canceling Headphones",
+        "category": "Electronics",
+        "price": 149.99,
+        "currency": "USD",
+        "description": "Enjoy crystal-clear audio with active noise cancellation.",
+        "rating": 4.7,
+        "in_stock": true,
+        "date": "2023-09-29"
+    },
+    {
+        "product_id": "P24680",
+        "product_name": "Women's Running Shoes",
+        "category": "Footwear",
+        "price": 79.99,
+        "currency": "USD",
+        "description": "High-performance running shoes for women.",
+        "rating": 4.6,
+        "in_stock": true,
+        "date": "2023-09-29"
+    },
+    {
+        "product_id": "P13579",
+        "product_name": "Gourmet Coffee Beans Sampler",
+        "category": "Food & Drink",
+        "price": 24.99,
+        "currency": "USD",
+        "description": "Experience the flavors of the world with our coffee bean sampler.",
+        "rating": 4.9,
+        "in_stock": true,
+        "date": "2023-09-29"
+    },
+    {
+        "product_id": "P11223",
+        "product_name": "4K Ultra HD Smart TV",
+        "category": "Electronics",
+        "price": 799.99,
+        "currency": "USD",
+        "description": "Immerse yourself in stunning 4K content with our smart TV.",
+        "rating": 4.6,
+        "in_stock": true,
+        "date": "2023-09-29"
+    },
+    {
+        "product_id": "P56789",
+        "product_name": "Stainless Steel Cookware Set",
+        "category": "Kitchen",
+        "price": 249.99,
+        "currency": "USD",
+        "description": "Upgrade your kitchen with our durable stainless steel cookware set.",
+        "rating": 4.4,
+        "in_stock": true,
+        "date": "2023-09-29"
+    },
+    {
+        "product_id": "P22334",
+        "product_name": "Bluetooth Wireless Speaker",
+        "category": "Electronics",
+        "price": 69.99,
+        "currency": "USD",
+        "description": "Enjoy your music with high-quality wireless speakers.",
+        "rating": 4.2,
+        "in_stock": true,
+        "date": "2023-09-30"
+    },
+    {
+        "product_id": "P78901",
+        "product_name": "Leather Messenger Bag",
+        "category": "Fashion",
+        "price": 129.99,
+        "currency": "USD",
+        "description": "A stylish leather bag for your daily needs.",
+        "rating": 4.5,
+        "in_stock": true,
+        "date": "2023-09-30"
+    },
+    {
+        "product_id": "P45678",
+        "product_name": "Smart Home Security Camera",
+        "category": "Electronics",
+        "price": 129.99,
+        "currency": "USD",
+        "description": "Keep your home secure with smart security cameras.",
+        "rating": 4.7,
+        "in_stock": true,
+        "date": "2023-09-30"
+    },
+    {
+        "product_id": "P98765",
+        "product_name": "Wireless Gaming Mouse",
+        "category": "Gaming",
+        "price": 49.99,
+        "currency": "USD",
+        "description": "Elevate your gaming experience with a wireless mouse.",
+        "rating": 4.6,
+        "in_stock": true,
+        "date": "2023-09-30"
+    },
+    {
+        "product_id": "P78900",
+        "product_name": "Home Espresso Machine",
+        "category": "Kitchen",
+        "price": 249.99,
+        "currency": "USD",
+        "description": "Brew your favorite espresso at home.",
+        "rating": 4.3,
+        "in_stock": true,
+        "date": "2023-10-01"
+    },
+    {
+        "product_id": "P12346",
+        "product_name": "Men's Casual Sneakers",
+        "category": "Footwear",
+        "price": 59.99,
+        "currency": "USD",
+        "description": "Comfortable sneakers for everyday wear.",
+        "rating": 4.4,
+        "in_stock": true,
+        "date": "2023-10-01"
+    },
+    {
+        "product_id": "P23456",
+        "product_name": "Fitness Tracker Watch",
+        "category": "Electronics",
+        "price": 79.99,
+        "currency": "USD",
+        "description": "Monitor your fitness goals with a smart tracker watch.",
+        "rating": 4.6,
+        "in_stock": true,
+        "date": "2023-10-01"
+    },
+    {
+        "product_id": "P34567",
+        "product_name": "Digital Camera",
+        "category": "Electronics",
+        "price": 299.99,
+        "currency": "USD",
+        "description": "Capture memories with a high-quality digital camera.",
+        "rating": 4.8,
+        "in_stock": true,
+        "date": "2023-10-01"
+    },
+    {
+        "product_id": "P45678",
+        "product_name": "Stainless Steel Water Bottle",
+        "category": "Kitchen",
+        "price": 19.99,
+        "currency": "USD",
+        "description": "Stay hydrated with a durable stainless steel water bottle.",
+        "rating": 4.7,
+        "in_stock": true,
+        "date": "2023-10-02"
+    },
+    {
+        "product_id": "P56789",
+        "product_name": "Wireless Keyboard and Mouse Combo",
+        "category": "Electronics",
+        "price": 59.99,
+        "currency": "USD",
+        "description": "Upgrade your computer setup with a wireless keyboard and mouse combo.",
+        "rating": 4.6,
+        "in_stock": true,
+        "date": "2023-10-02"
+    },
+    {
+        "product_id": "P67890",
+        "product_name": "Designer Sunglasses",
+        "category": "Fashion",
+        "price": 129.99,
+        "currency": "USD",
+        "description": "Protect your eyes in style with designer sunglasses.",
+        "rating": 4.5,
+        "in_stock": true,
+        "date": "2023-10-03"
+    }
+]
